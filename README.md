@@ -38,7 +38,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/python-hand-recognition-coffee-app.git
+   git clone https://github.com/Sejal-shh/SignCafe.git
    ```
 2. Navigate to the project directory:
    ```
